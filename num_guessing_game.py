@@ -5,7 +5,7 @@ class NumberGuessingGame:
 
     def __init__(self):
         self.LOWER = 1
-        self.HIGHER = 10
+        self.HIGHER = 15
         self.MAX_CHANCES = 5
         self.OUT_OF_CHANCES = False
 
